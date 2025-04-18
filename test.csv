@@ -1,0 +1,11 @@
+Event_Type,Score_Differential,Time_of_Event,Home_Away,Possession_Pre_Event,Shots_Pre_Event,Passes_Completed_Pre_Event,Opponent_Strength,Fatigue_Index,Crowd_Influence,Key_Player_Involved,Tactical_Shift,Momentum_Swing,Recent_Form,Event_Severity,Sub_Impact,Pressure_Index
+Goal_Scored,2,15.0,1,60.0,7,80,0.6,0.4,0.7,1,0,20.0,0.8,0.8,0.0,0.5
+Goal_Conceded,-2,75.0,1,40.0,3,50,0.9,0.8,0.3,0,1,-20.0,0.4,0.9,0.0,0.9
+Red_Card_Own,-1,45.0,1,45.0,4,60,0.7,0.6,0.5,1,0,-15.0,0.5,1.0,0.0,0.8
+Red_Card_Opp,1,30.0,1,55.0,6,70,0.5,0.5,0.6,0,1,15.0,0.7,0.7,0.0,0.6
+Yellow_Card_Own,0,60.0,1,50.0,5,65,0.8,0.7,0.4,0,0,-5.0,0.6,0.5,0.0,0.7
+Yellow_Card_Opp,0,25.0,1,52.0,5,68,0.6,0.5,0.5,1,1,5.0,0.6,0.4,0.0,0.6
+Crucial_Save,0,85.0,1,48.0,4,55,0.7,0.8,0.6,1,0,10.0,0.5,0.6,0.0,0.8
+Missed_Chance,-1,50.0,1,58.0,8,75,0.6,0.6,0.5,0,0,-10.0,0.7,0.5,0.0,0.7
+Sub_In,0,65.0,1,50.0,5,60,0.7,0.6,0.5,0,1,0.0,0.6,0.3,0.5,0.6
+Sub_Out,-3,90.0,1,35.0,2,45,0.9,0.9,0.2,0,0,-25.0,0.3,0.4,0.3,1.0
